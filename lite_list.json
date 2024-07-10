@@ -2374,5 +2374,14 @@
         "url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_data/texdb/samp.img",
         "gpu": "all"
     }
+  ],
+  "cache": [
+    {
+      "name": "servers.txt",
+      "size": "24",
+      "path": "servers.txt",
+      "url": "https://raw.githubusercontent.com/James00019/phrrpxmnlrp-launcher/main/servers.txt",
+      "gpu": "all"
+    }
   ]
 }
